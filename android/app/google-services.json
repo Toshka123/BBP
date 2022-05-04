@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633552688928",
+    "project_id": "bhabhisana-project",
+    "storage_bucket": "bhabhisana-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633552688928:android:1fe1b5cc2d60547969e945",
+        "android_client_info": {
+          "package_name": "com.flutterflow.bhabisanababyproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633552688928-d452df9olkrfp45lh1a5p9rbjd4ok1po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUhj5m2UjTe40BjbUhpf8QPK_0HHe5vnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633552688928-d452df9olkrfp45lh1a5p9rbjd4ok1po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
